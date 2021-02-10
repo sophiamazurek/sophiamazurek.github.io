@@ -1,0 +1,13 @@
+
+developer's name, 
+a recent photo, 
+links to sections about them, their work, and how to contact them [link about me, port, contact]
+ navbar (1 page tags corresponding to location)
+
+aboutme:  titled images of  applications
+-first application: image should be larger in size than the others
+images of the applications: linked to deployed page
+WHEN I resize the page or view the site on various screens and devices should be mobile responsive (media queries)
+THEN I am presented with a responsive layout that adapts to my viewport
+
+num email github twitter spotify
