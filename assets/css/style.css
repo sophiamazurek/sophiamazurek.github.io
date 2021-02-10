@@ -108,6 +108,10 @@ footer {
   padding: 40px 35px;
   text-align: center;
 }
+.fa{
+  color:red;
+  font-size: 1em;
+}
 
 .profile-img{
   margin-right:10px;
