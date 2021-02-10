@@ -10,7 +10,7 @@ body, html {
   
   .bg {
     /* The image used */
-    background-image: url("../images/aboutmeimg.jpeg");
+    background-image: url("../images/homepic3.jpeg");
   
     /* Full height */
     height: 100%; 
@@ -23,6 +23,8 @@ body, html {
 
   .intro{
     position: absolute;
-    top: 8px;
-    right: 16px;
+    bottom: 8px;
+    left: 16px;
+    padding: 2em;
+    margin-bottom:27em;
   }
