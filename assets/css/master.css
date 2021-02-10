@@ -1,0 +1,28 @@
+body, html {
+    font-family: 'Montserrat', sans-serif;
+    height: 100%;
+    margin: 0;
+  }
+  h1, h2, h3, h4, h5{
+      font-weight:900;
+      font-family: 'Oswald', sans-serif;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("../images/aboutmeimg.jpeg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .intro{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
